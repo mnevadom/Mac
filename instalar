@@ -6,7 +6,8 @@ docker-compose
 vscode
 mysql server y client
 print pantalla
-postman
+postman: conectar con google
 kafka
 mongo
 editor de textos
+slack: desde el correo de dogood hay enlace para conectar a tu espacio de trabajo y la app lo detecta
